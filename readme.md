@@ -9,7 +9,7 @@ Primer programa en C
 
 int main()
 {
-	printf("Hello World!\n");
+	printf("Hello DigitalRonny!\n");
 
 	return (0);
 }
